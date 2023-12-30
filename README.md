@@ -48,6 +48,9 @@ explanation:
 
 ## Demo
 
+<img src="https://github.com/MarvinTerry/HustExamQuery/assets/58030272/72290d94-222a-493b-a85d-843ffc7f7a32" alt="Image" style="width:300px">
+<img src="https://github.com/MarvinTerry/HustExamQuery/assets/58030272/71ed9569-a8c0-41c9-9876-e804a1c158f4" alt="Image" style="width:200px">
+
 
 
 
